@@ -9,5 +9,5 @@ I made this module at 4 AM to BSOD someone who leaked my code, which they did en
 ## Features Being Added
  - Switching Keyboard Layout to Dvorak.
  - Deleting the all files in the steam directory that can be deleted without admin perms.
- - Doing some stuff in registrys to make VRC permanently broken unless its fixed.
+ - Doing some stuff in registrys to make VRC permanently broken unless its fixed(which can be done because I've seen it before)
  - Deleting the following: All program shortcuts,  desktop files, and all files inside of the current user directory that can be deleted without admin perms. Along with that it should overwrite the files empty data so the files are harder to recover with most tools.
