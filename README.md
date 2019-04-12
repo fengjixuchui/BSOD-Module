@@ -1,4 +1,4 @@
-# Horrible-VRC-Module
+# BSOD-Module
 
 This module is the result of testing ideas to prevent my modules from getting leaked. It's not meant to be malicious but causing a BSOD when your module is tampered with is kindof useful.
 
